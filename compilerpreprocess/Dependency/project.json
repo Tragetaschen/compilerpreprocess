@@ -1,0 +1,13 @@
+﻿{
+    "version": "1.0.0-*",
+    "dependencies": {
+        "Microsoft.Framework.Runtime.Roslyn": { "version": "1.0.0-beta1-*", "type": "build" }
+    },
+
+    "frameworks": {
+        "aspnet50": {
+            "dependencies": {
+            }
+        }
+    }
+}
